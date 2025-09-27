@@ -6,7 +6,7 @@
 
 
 ## FORMULA:
-BMI = W<sup>H</sup>2
+BMI = W/H<sup>2</sup>
 <br> H --> Height (M)
 <br> I --> Weight (Kg)
 
